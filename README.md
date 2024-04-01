@@ -8,10 +8,6 @@ This project was made with JavaScript Vanilla aplying dom manipulation
 * [LinkedIn](https://www.linkedin.com/in/iscodelcollado/)
 * [Portfolio](https://iscodelcollado.com)
 
-## Watch the live example
-- [link]
-
-
 ## Hiring 
 
 If you want to hire me, you can send me an email to info@iscodelcollado.com
